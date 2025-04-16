@@ -1,12 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna-pradhan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishna-pradhan" alt="ramkrishna-pradhan" /></a> </p>
 
 <img 
-src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated GIF" width="500" align="right" >
+src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated GIF" width="400" align="right" >
 
-<h1 style="color="red";",>💫 About Me:</h1>
+<h3>✨ About Me:</h3>
  I’m currently learning React.js and node.js
 
-
-<h1>💫 🌐 Contect Me:</h1>
+<h3>💫 🌐 Contect Me:</h3>
 <div>
 <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100081058921359"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> </a>
  <a href="https://instagram.com/https://www.instagram.com/ramkrishnapradhan918/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -14,28 +15,91 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
  <a href="mailto:ramkrishnapradhan918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </div><br>
 
+#  📚 Projects & Work
+- **[To-Do List](https://ramkrishna-pradhan.github.io/To-Do-List/)**: A simple implementation of the classic To-Do List website using HTML,CSS and JAVASCRIPT.This application allows users to create, organize, and track their daily tasks efficiently. With a clean and intuitive interface, users can easily add new tasks, mark them as complete, and categorize them based on priority or tags.
+
+
+
 <h1> 💻 Tech Stack:</h1>
-<div>
-<img height="40" width="60" src="https://img.shields.io/badge/c-%2300599C.svg?style=Flat&logo=c&logoColor=white">
- <img height="40" width="70" src="https://img.shields.io/badge/c++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white"> 
- <img height="40" width="70" src="https://img.shields.io/badge/html-%23E34F26.svg?style=Flat&logo=html5&logoColor=white"> 
- <img height="40" width="70" src="https://img.shields.io/badge/css-%231572B6.svg?style=Flat&logo=css3&logoColor=white"> <br>
- <img height="40" width="90" src="https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E"> 
- <img height="40" width="70" src="https://img.shields.io/badge/php-%23777BB4.svg?style=Flat&logo=php&logoColor=white">
- <img height="40" width="70" src="https://img.shields.io/badge/apache-%23D42029.svg?style=Flat&logo=apache&logoColor=white"> 
- <img height="40" width="70" src="https://img.shields.io/badge/mysql-4479A1.svg?style=Flat&logo=mysql&logoColor=white"><br>
- <img height="40" width="70" src="https://img.shields.io/badge/github-%23121011.svg?style=Flat&logo=github&logoColor=white"> 
- <img height="40" width="60" src="https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white">
- <img height="40" width="90" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=Flat&logo=WordPress&logoColor=white">
- <img height="40" width="90" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white">
-</div>
+<table align="start">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
+      <br>WordPress
+    </td>
+   
+  </tr>
+ <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+ </tr>
+</table>
+<br>
  
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramkrishna-Pradhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ramkrishna-Pradhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkrishna-Pradhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

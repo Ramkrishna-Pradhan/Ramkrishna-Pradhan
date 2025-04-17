@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
  <a href="https://instagram.com/https://www.instagram.com/ramkrishnapradhan918/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramkrishna-pradhan-85a85832b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
  <a href="mailto:ramkrishnapradhan918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</div><br>
+</div><br><br>
 
 #  📚 Projects & Work
 - **[To-Do List](https://ramkrishna-pradhan.github.io/To-Do-List/)**: A simple implementation of the classic To-Do List website using HTML,CSS and JAVASCRIPT.This application allows users to create, organize, and track their daily tasks efficiently. With a clean and intuitive interface, users can easily add new tasks, mark them as complete, and categorize them based on priority or tags.

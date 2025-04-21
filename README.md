@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ramkrishna</h1>
+<h3 align="center"></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna-pradhan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishna-pradhan" alt="ramkrishna-pradhan" /></a> </p>
 
@@ -5,19 +8,21 @@
 src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated GIF" width="400" align="right" >
 
 <h3>✨ About Me:</h3>
- I’m currently learning React.js and node.js
+<ul>
+ <li>I'm a passionate fullstack developer from India and I’m currently learning React.js and node.js</li>
+</ul>
 
-<h3>💫 🌐 Contect Me:</h3>
+<h3>💫🌐 Contect Me:</h3>
 <div>
-<a href="https://facebook.com/https://www.facebook.com/profile.php?id=100081058921359"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> </a>
- <a href="https://instagram.com/https://www.instagram.com/ramkrishnapradhan918/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramkrishna-pradhan-85a85832b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
- <a href="mailto:ramkrishnapradhan918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</div><br><br>
+<a href="https://facebook.com/https://www.facebook.com/profile.php?id=100081058921359"> <img width="100" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> </a>
+ <a href="https://instagram.com/https://www.instagram.com/ramkrishnapradhan918/?hl=en"><img width="100" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramkrishna-pradhan-85a85832b/"><img width="75" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+ <a href="mailto:ramkrishnapradhan918@gmail.com"><img width="75" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</div><br>
 
 #  📚 Projects & Work
 - **[To-Do List](https://ramkrishna-pradhan.github.io/To-Do-List/)**: A simple implementation of the classic To-Do List website using HTML,CSS and JAVASCRIPT.This application allows users to create, organize, and track their daily tasks efficiently. With a clean and intuitive interface, users can easily add new tasks, mark them as complete, and categorize them based on priority or tags.
-- 
+
 - **[Tic-Tac-Tao-Game]()**:A simple implementation of the classic Tic-Tac-Toe game using HTML ,CSS and JAVASCRIPT.The game features a two-player mode for competing against friends or family, with a simple interface for easy moves. It automatically checks for a winner and detects draws, ensuring smooth gameplay and Players can also restart the game.
 
 

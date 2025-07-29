@@ -23,7 +23,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 #  📚 Projects & Work
 - **[To-Do List](https://ramkrishna-pradhan.github.io/To-Do-List/)**: A simple implementation of the classic To-Do List website using HTML,CSS and JAVASCRIPT.This application allows users to create, organize, and track their daily tasks efficiently. With a clean and intuitive interface, users can easily add new tasks, mark them as complete, and categorize them based on priority or tags.
 
-- **[Tic-Tac-Tao-Game](https://ramkrishna-pradhan.github.io/TIC-TAc-TAO-GAME/)**:A simple implementation of the classic Tic-Tac-Toe game using HTML ,CSS and JAVASCRIPT.The game features a two-player mode for competing against friends or family, with a simple interface for easy moves. It automatically checks for a winner and detects draws, ensuring smooth gameplay and Players can also restart the game.
+- **[Tic-Tac-Tao-Game](https://ramkrishna-pradhan.github.io/TIC-TAC-TAO-GAME/)**:A simple implementation of the classic Tic-Tac-Toe game using HTML ,CSS and JAVASCRIPT.The game features a two-player mode for competing against friends or family, with a simple interface for easy moves. It automatically checks for a winner and detects draws, ensuring smooth gameplay and Players can also restart the game.
 
 
 <h1> 💻 Tech Stack:</h1>

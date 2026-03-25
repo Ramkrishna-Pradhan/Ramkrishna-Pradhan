@@ -98,10 +98,12 @@
  </tr>
 </table>
 <br>
- 
-## 📊 GitHub Stats:
-![](https://github-readme-stats-eight.vercel.app/api?username=Ramkrishna-Pradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://github-readme-streak-stats-eight.vercel.app/?user=Ramkrishna-Pradhan&theme=dark&hide_border=false&cache_seconds=1800)<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramkrishna-Pradhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ramkrishna-Pradhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkrishna-Pradhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
